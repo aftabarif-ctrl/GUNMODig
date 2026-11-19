@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "modernarms",
+  "version": "${version}",
+  "name": "Modern Arms",
+  "description": "A lightweight arsenal: pistol, sniper rifle and RPG bazooka with animations, tracers, recoil, scopes and huge explosions.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.modernarms.ModernArms"],
+    "client": ["com.modernarms.client.ModernArmsClient"]
+  },
+  "mixins": ["modernarms.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": ">=1.21 <=1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

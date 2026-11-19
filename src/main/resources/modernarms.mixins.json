@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.modernarms.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HeldItemRendererMixin",
+    "GameRendererMixin",
+    "MinecraftClientMixin",
+    "InGameHudMixin",
+    "CameraMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}

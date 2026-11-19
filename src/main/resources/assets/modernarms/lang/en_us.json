@@ -1,0 +1,13 @@
+{
+ "item.modernarms.pistol": "Pistol",
+ "item.modernarms.sniper_rifle": "Sniper Rifle",
+ "item.modernarms.rpg": "RPG Bazooka",
+ "item.modernarms.universal_ammo": "Universal Ammo",
+ "key.modernarms.reload": "Reload Weapon",
+ "key.categories.modernarms": "Modern Arms",
+ "msg.modernarms.empty": "Empty - press R to reload",
+ "msg.modernarms.noammo": "No Universal Ammo",
+ "msg.modernarms.reloading": "Reloading...",
+ "msg.modernarms.ready": "Ready",
+ "itemGroup.modernarms": "Modern Arms"
+}
